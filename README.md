@@ -24,7 +24,7 @@ I am currently pursuing my Bachelor in Computer Application and I have a keen in
 
 Feel free to connect with me on:
 
-- Email: about@dahal-santosh.com.np
+- Email: about@santoshdahal.info.np
 - LinkedIn: https://www.linkedin.com/in/santosh-dahal-83559b298/
 
 ## 😄 Pronouns: ...
