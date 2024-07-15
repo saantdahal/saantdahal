@@ -12,13 +12,13 @@ I am currently pursuing my Bachelor in Computer Application and I have a keen in
 
 ## 🌱 I’m currently learning ...
 
-- Advanced concepts in **Java** to enhance my app development skills
+- Advanced concepts in **Java** and **Flutter** to enhance my app development skills
 - Modern software development practices and tools
 - Cross-platform application development to broaden my skill set
 
 ## 💞️ I’m looking to collaborate on ...
 
-- Open-source projects related to Java
+- Open-source projects related to App Development
 - Innovative projects or start-ups that aim to solve real-world problems
 - Educational content creation to help others learn Java
 
