@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santosh!;" />
 </h1>
 
-I am currently pursuing my Bachelor in Computer Application and I have a keen interest in software development, especially in **Java**. I'm passionate about learning new technologies, solving problems, and building cool projects.
+I am currently pursuing my Bachelor in Computer Application and I have a keen interest in software development, especially in **Java** and **Flutter**. I'm passionate about learning new technologies, solving problems, and building cool projects.
 
 ## 👀 I’m interested in ...
 
