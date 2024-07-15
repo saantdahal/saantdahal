@@ -93,4 +93,4 @@ Feel free to connect with me on:
 
 
 
-## Last updated: [June 2024]
+## Last updated: [July 2024]
