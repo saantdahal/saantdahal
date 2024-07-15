@@ -89,8 +89,9 @@ Feel free to connect with me on:
   </a>
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=saantdahal&style=flat-square)
+
 
 
 
 ## Last updated: [July 2024]
+![Visitor Count](https://komarev.com/ghpvc/?username=saantdahal&style=flat-square)
