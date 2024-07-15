@@ -91,15 +91,6 @@ Feel free to connect with me on:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=saantdahal&style=flat-square)
 
-## 🔥 GitHub Streak Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saantdahal&theme=dark)](https://git.io/streak-stats)
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=saantdahal)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🛠️ Top Skills:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saantdahal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Last updated: [June 2024]
