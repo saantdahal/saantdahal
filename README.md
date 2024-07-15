@@ -6,7 +6,7 @@ I am currently pursuing my Bachelor in Computer Application and I have a keen in
 
 ## 👀 I’m interested in ...
 
-- Mobile and desktop application development using **Java**
+- Mobile and desktop application development using **Java** and **Flutter**
 - Exploring new technologies and tools in the software development world
 - Engaging with the community to share knowledge and learn from others
 
