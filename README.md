@@ -38,18 +38,21 @@ Feel free to connect with me on:
 - When I'm not coding, I love to explore the outdoors, read tech articles, and play video games. I'm always curious about how things work and enjoy taking on new challenges.
 
 ## ⚙️ Languages and Tools:
-<p align="left">
+<p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+      <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -78,9 +81,7 @@ Feel free to connect with me on:
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
+
 </p>
 
 
