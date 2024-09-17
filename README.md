@@ -29,13 +29,6 @@ Feel free to connect with me on:
 - Email: about@santoshdahal.info.np
 - LinkedIn: https://www.linkedin.com/in/santosh-dahal-83559b298/
 
-## 😄 Pronouns: ...
-
-- He/Him
-
-## ⚡ Fun fact: ...
-
-- When I'm not coding, I love to explore the outdoors, read tech articles, and play video games. I'm always curious about how things work and enjoy taking on new challenges.
 
 ## ⚙️ Languages and Tools:
 <p>
