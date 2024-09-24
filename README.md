@@ -67,7 +67,7 @@ Feel free to connect with me on:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
-<div align=center>
+<div align=left>
 
 <br>
   <br/>
