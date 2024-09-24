@@ -1,32 +1,33 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santosh!;" />
 </h1>
+<div align=center>
 I am currently pursuing my Bachelor in Computer Application and I have a keen interest in software development, especially in **Java** and **Flutter**. I'm passionate about learning new technologies, solving problems, and building cool projects.
 
 ## 👀 I’m interested in ...
 
-- Mobile and desktop application development using **Java** and **Flutter**
-- Exploring new technologies and tools in the software development world
-- Engaging with the community to share knowledge and learn from others
+ Mobile and desktop application development using **Java** and **Flutter**<br>
+ Exploring new technologies and tools in the software development world<br>
+ Engaging with the community to share knowledge and learn from others<br>
 
 ## 🌱 I’m currently learning ...
 
-- Advanced concepts in **Java** and **Flutter** to enhance my app development skills
-- Modern software development practices and tools
-- Cross-platform application development to broaden my skill set
+ Advanced concepts in **Java** and **Flutter** to enhance my app development skills<br>
+Modern software development practices and tools<br>
+ Cross-platform application development to broaden my skill set<br>
 
 ## 💞️ I’m looking to collaborate on ...
 
-- Open-source projects related to App Development
-- Innovative projects or start-ups that aim to solve real-world problems
-- Educational content creation to help others learn Java
+ Open-source projects related to App Development<br>
+ Innovative projects or start-ups that aim to solve real-world problems<br>
+ Educational content creation to help others learn Java<br>
 
 ## 📫 How to reach me ...
 
 Feel free to connect with me on:
 
-- Email: about@santoshdahal.info.np
-- LinkedIn: https://www.linkedin.com/in/santosh-dahal-83559b298/
+ Email: about@santoshdahal.info.np<br>
+ LinkedIn: https://www.linkedin.com/in/santosh-dahal-83559b298/<br>
 
 ## ⚙️ Languages and Tools:
 <p>
@@ -67,6 +68,8 @@ Feel free to connect with me on:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+
 <div align=center>
 
 <br>
@@ -77,3 +80,5 @@ Feel free to connect with me on:
 
 ## Last updated: [Sept 2024]
 ![Visitor Count](https://komarev.com/ghpvc/?username=saantdahal&style=flat-square)
+
+</div>
