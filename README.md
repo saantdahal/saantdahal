@@ -79,6 +79,6 @@ Feel free to connect with me on:
 </div>
 
 ## Last updated: [Sept 2024]
-![Visitor Count](https://komarev.com/ghpvc/?username=saantdahal&style=flat-square)
+
 
 </div>
