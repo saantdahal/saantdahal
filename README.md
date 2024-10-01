@@ -24,6 +24,9 @@
   <a href="https://dart.dev/">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
+  </a>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   </a>
@@ -48,7 +51,18 @@
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
+  </a>
+  <a href="https://pub.dev/">
+    <img src="https://img.shields.io/badge/pub.dev-%2337517F.svg?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev Badge"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  </a>
+
 </div>
+
 
 ##
 ![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saantdahal&show_icons=true&theme=dark)
