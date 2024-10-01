@@ -1,84 +1,60 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Santosh!;" />
-</h1>
-<div align=center>
-I am currently pursuing my Bachelor in Computer Application and I have a keen interest in software development, especially in Flutter and Android. I'm passionate about learning new technologies, solving problems, and building cool projects.
+<h1 align="center">Hi 👋, I'm Santosh</h1>
 
-## 👀 I’m interested in ...
-
- Mobile and desktop application development using **Java** and **Flutter**<br>
- Exploring new technologies and tools in the software development world<br>
- Engaging with the community to share knowledge and learn from others<br>
-
-## 🌱 I’m currently learning ...
-
- Advanced concepts in **Java** and **Flutter** to enhance my app development skills<br>
-Modern software development practices and tools<br>
- Cross-platform application development to broaden my skill set<br>
-
-## 💞️ I’m looking to collaborate on ...
-
- Open-source projects related to App Development<br>
- Innovative projects or start-ups that aim to solve real-world problems<br>
- Educational content creation to help others learn Java<br>
-
-## 📫 How to reach me ...
-
-Feel free to connect with me on:
-
- Email: about@santoshdahal.info.np<br>
- LinkedIn: https://www.linkedin.com/in/santosh-dahal-83559b298/<br>
-
-## ⚙️ Languages and Tools:
-<p>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: about@santoshdahal.info.np
+- 😄 My website: https://santoshdahal.info.np
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/saantdahal">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-
-<div align=center>
-
-<br>
-  <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saantdahal&show_icons=true&locale=en&layout=compact&theme=radical" alt="saantdahal" /></p>
-<br>
+<a href="https://www.linkedin.com/in/santosh-dahal-83559b298/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
-## Last updated: [Sept 2024]
-
-
+### Languages and Tools:
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/>
+  </a>
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+  </a>
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Badge"/>
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Badge"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Badge"/>
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
+  </a>
 </div>
+
+##
+![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saantdahal&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saantdahal&theme=dark)
+
+##
+
+![](https://komarev.com/ghpvc/?username=saantdahal)
