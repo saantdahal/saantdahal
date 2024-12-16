@@ -69,6 +69,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saantdahal&theme=dark)
 
-##
 
-![](https://komarev.com/ghpvc/?username=saantdahal)
