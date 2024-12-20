@@ -27,6 +27,7 @@
   <a href="https://firebase.google.com/">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/>
   </a>
+  <br>
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   </a>
@@ -36,6 +37,7 @@
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   </a>
+  <br>
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/>
   </a>
@@ -51,6 +53,7 @@
   <a href="https://www.linux.org/">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
   </a>
+  <br>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
   </a>
@@ -63,9 +66,8 @@
 
 </div>
 
+<br>
 
-##
-![Santosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saantdahal&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saantdahal&theme=dark)
 
