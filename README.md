@@ -99,12 +99,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saantdahal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saantdahal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saantdahal&theme=github_dark&utcOffset=8)
-### 🧑‍💻My GitHub Stats
-
-
-
-<a href="http://www.github.com/saantdahal"><img src="https://github-readme-stats.vercel.app/api?username=saantdahal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="hehenischal's GitHub stats" /></a>
-
 
 
 
