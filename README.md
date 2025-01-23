@@ -101,13 +101,4 @@
 
 
 
-### 🏆 My Github Trophies
-
-
-
-  <a href="https://github.com/saantdahal?tab=repositories"><img width="800px" src="https://github-profile-trophy.vercel.app/?username=saantdahal&column=8&theme=discord&no-frame=true"/></a>
-
-
-
-
 
