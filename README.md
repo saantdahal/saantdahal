@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Santosh</h1>
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: about@santoshdahal.info.np
-- 😄 My website: https://santoshdahal.info.np
   
 ### Connect with me:
 <div id="badges">
