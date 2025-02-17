@@ -2,7 +2,7 @@
   
 ### 📬 Contact Me:
 <div id="badges">
-  <a href="mailto:mail@santosh-dahal.info.np">
+  <a href="mailto:about@dahal-santosh.com.np">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/saantdahal">
