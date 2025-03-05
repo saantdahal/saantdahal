@@ -96,8 +96,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saantdahal&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saantdahal&theme=github_dark&utcOffset=8)
 
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+ 
 
 
