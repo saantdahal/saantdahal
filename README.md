@@ -90,7 +90,7 @@
 
 
 
-### 🌎Socials
+### 🌎Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saantdahal&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saantdahal&theme=github_dark)
