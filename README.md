@@ -15,7 +15,7 @@ I am a **Flutter Developer** passionate about building cross-platform applicatio
 
 ### 📬 Contact Me:
 <div id="badges">
-  <a href="mailto:about@dahal-santosh.com.np">
+  <a href="mailto:thesaantdahal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/saantdahal">
