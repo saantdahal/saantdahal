@@ -56,10 +56,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saantdahal&theme=github_dark" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saantdahal&theme=github_dark" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saantdahal&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-</p>
