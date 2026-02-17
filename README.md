@@ -18,12 +18,12 @@ I build scalable, high-performance cross-platform applications using Flutter, wi
 
 ## Core Skills
 
-- **Flutter & Dart** — scalable UI, Bloc-based state management
-- **Backend** — Node.js, RESTful APIs, authentication
-- **Databases** — PostgreSQL, MongoDB
-- **Caching** — Redis
-- **Cloud** — AWS fundamentals, Firebase services
-- **DevOps** — Git, CI/CD pipelines, Linux environments
+- **Flutter & Dart** : scalable UI, Bloc-based state management
+- **Backend** : Node.js, RESTful APIs, authentication
+- **Databases** : PostgreSQL, MongoDB
+- **Caching** : Redis
+- **Cloud** : AWS fundamentals, Firebase services
+- **DevOps** : Git, CI/CD pipelines, Linux environments
 
 ---
 
