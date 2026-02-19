@@ -1,54 +1,25 @@
 # Santosh Dahal
+**Flutter & Full-Stack Developer**
 
-**Flutter & Full-Stack Software Developer**
-
-I build scalable, high-performance cross-platform applications using Flutter, with solid experience in backend systems, cloud infrastructure, and production deployments. I enjoy turning real-world problems into clean, maintainable software and contributing to open-source communities.
 
 ---
 
-## About Me
-
-- Flutter-first developer (Mobile • Web • Desktop)
-- Strong focus on clean architecture, state management, and performance
-- Experienced with REST APIs, backend integration, and databases
-- Comfortable working with cloud services & CI/CD pipelines
-- Always learning, always shipping
+## Skills
+- **Flutter & Dart** : Bloc, Clean Architecture, responsive UI
+- **Backend** : Node.js, REST APIs, JWT auth
+- **Databases** : PostgreSQL, MongoDB, Redis
+- **Cloud & DevOps** : AWS, Firebase, Git, CI/CD, Linux
 
 ---
 
-## Core Skills
-
-- **Flutter & Dart** : scalable UI, Bloc-based state management
-- **Backend** : Node.js, RESTful APIs, authentication
-- **Databases** : PostgreSQL, MongoDB
-- **Caching** : Redis
-- **Cloud** : AWS fundamentals, Firebase services
-- **DevOps** : Git, CI/CD pipelines, Linux environments
+## Projects
+- Production Flutter apps (mobile/web/desktop) with real-time APIs & role-based access
+- Secure Node.js backends with caching and database modeling
+- Open-source contributions focused on quality and documentation
 
 ---
 
-## Featured Projects
-
-A few highlights of what I work on (more in repositories below)
-
-### Flutter Applications
-- Production-ready mobile apps with Bloc/Clean Architecture
-- Real-time APIs, authentication, role-based access
-- Optimized UI, animations, and responsive layouts
-
-### Backend & APIs
-- Secure REST APIs using Node.js & Express
-- JWT authentication, database modeling
-- Caching strategies for performance
-
-### Open Source
-- Active contributor to community repositories
-- Focus on code quality, documentation, and maintainability
-
----
-
-## Technology Stack
-
+## Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -64,25 +35,8 @@ A few highlights of what I work on (more in repositories below)
 
 ---
 
-## Interests
-
-- Scalable mobile & backend architectures
-- Cloud-native systems
-- Performance optimization & caching
-- Developer tooling & automation
-- Open-source collaboration
+## Connect
+[Portfolio](https://santoshdahal.info.np) • [Email](mailto:dev@santoshdahal.info.np) • [LinkedIn](https://www.linkedin.com/in/saantdahal/) • [X](https://x.com/saantdahal)
 
 ---
-
-## Connect With Me
-
-- **Portfolio:** [https://santoshdahal.info.np](https://santoshdahal.info.np)
-- **Email:** [dev@santoshdahal.info.np](mailto:dev@santoshdahal.info.np)
-- **LinkedIn:** [https://www.linkedin.com/in/saantdahal/](https://www.linkedin.com/in/saantdahal/)
-- **X (Twitter):** [https://x.com/saantdahal](https://x.com/saantdahal)
-
----
-
-**Open to Flutter & Full-Stack opportunities and collaborations**
-
-Let's build something impactful.
+*Open to Flutter & Full-Stack opportunities*
