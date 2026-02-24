@@ -1,25 +1,22 @@
 # Santosh Dahal
-**Flutter & Full-Stack Developer**
 
+Flutter and Full-Stack Developer focused on building scalable products with clean architecture, reliable backend systems, and maintainable code.
 
----
+## Core Expertise
 
-## Skills
-- **Flutter & Dart** : Bloc, Clean Architecture, responsive UI
-- **Backend** : Node.js, REST APIs, JWT auth
-- **Databases** : PostgreSQL, MongoDB, Redis
-- **Cloud & DevOps** : AWS, Firebase, Git, CI/CD, Linux
+- **Flutter and Dart:** BLoC, Clean Architecture, responsive UI for mobile, web, and desktop
+- **Backend Engineering:** Node.js, REST APIs, authentication and authorization (JWT)
+- **Data Layer:** PostgreSQL, MongoDB, Redis
+- **Cloud and Delivery:** AWS, Firebase, Git, CI/CD, Linux
 
----
+## Professional Work
 
-## Projects
-- Production Flutter apps (mobile/web/desktop) with real-time APIs & role-based access
-- Secure Node.js backends with caching and database modeling
-- Open-source contributions focused on quality and documentation
+- Delivered production-grade Flutter applications with real-time integrations and role-based access control
+- Developed secure and performant Node.js backends with optimized database design and caching strategies
+- Contributed to open-source projects with an emphasis on code quality, documentation, and developer experience
 
----
+## Technology Stack
 
-## Stack
 <p align="left">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
@@ -33,10 +30,8 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
----
+## Contact
 
-## Connect
 [Portfolio](https://santoshdahal.info.np) • [Email](mailto:dev@santoshdahal.info.np) • [LinkedIn](https://www.linkedin.com/in/saantdahal/) • [X](https://x.com/saantdahal)
 
----
-*Open to Flutter & Full-Stack opportunities*
+Open to Flutter and Full-Stack opportunities.
