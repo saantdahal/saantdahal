@@ -32,6 +32,19 @@ Flutter and Full-Stack Developer focused on building scalable products with clea
 
 ## Contact
 
-[Portfolio](https://santoshdahal.info.np) • [Email](mailto:dev@santoshdahal.info.np) • [LinkedIn](https://www.linkedin.com/in/saantdahal/) • [X](https://x.com/saantdahal)
+<p align="left">
+<a href="https://santoshdahal.info.np">
+	<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:dev@santoshdahal.info.np">
+	<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/saantdahal/">
+	<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/saantdahal">
+	<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+</p>
 
 Open to Flutter and Full-Stack opportunities.
